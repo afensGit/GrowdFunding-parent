@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="CrowdFunding-manager-impl" />
+        <module name="CrowdFunding-potal-impl" />
+        <module name="CrowdFunding-bean" />
+        <module name="CrowdFunding-manager-api" />
+        <module name="CrowdFunding-potal-api" />
+        <module name="MyBatis_Generator" />
+        <module name="CrowdFunding-common" />
+        <module name="CrowdFunding-main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="maven_java02" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
